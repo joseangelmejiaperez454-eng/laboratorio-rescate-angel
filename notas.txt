@@ -2,3 +2,4 @@ Línea 1: Git guarda el historial del proyecto.
 Línea 2: Cada commit guarda un estado completo del proyecto.
 Línea 3: Las ramas permiten trabajar sin dañar main.
 Línea 4: Un buen mensaje de commit explica qué cambió.
+Línea 5: git stash guarda trabajo a medias sin hacer commit.
